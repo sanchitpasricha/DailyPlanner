@@ -1,5 +1,10 @@
 ### April 2026
+- ~~Coding Patterns~~
+  - Two Pointers
+    - Inward
 - ~~Object Oriented Design Framework and OOPs Fundamentals~~
+- ~~Parking lot OOD~~
+  - UML Diagram
 - ~~Rate limiting Algorithms~~
   - Token Bucket
   - Leaky Bucket
