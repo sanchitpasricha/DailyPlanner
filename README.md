@@ -1,7 +1,9 @@
 ### April 2026
+- ~~Lambda architecture~~
 - ~~Coding Patterns~~
   - Two Pointers
     - Inward
+    - Unidirectional
 - ~~Object Oriented Design Framework and OOPs Fundamentals~~
 - ~~Parking lot OOD~~
   - UML Diagram
